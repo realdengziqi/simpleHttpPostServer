@@ -30,7 +30,7 @@ go build
 ```go
 ./simpleHttpPostServer -p 8000
 ```
-也可以什么都不传，直接使用默认的0.0.0.0:8000
+也可以什么都不传，直接使用默认的0.0.0.0:8080
 ```go
 ./simpleHttpPostServer
 ```
